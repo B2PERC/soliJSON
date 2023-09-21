@@ -1,0 +1,21 @@
+
+[
+    {
+        "id": “4”,
+        "title": "Combine sentences",
+        "status": "planned",
+        "description" : "You can add a little bit of extra context here."
+    },
+    {
+        "id": “5”,
+        "title": "Open with Finder support",
+        "status": "planned"
+    },
+    {
+        "id": “6”,
+        "title": "Initial Launch",
+        "status": "finished",
+        "description" : "Release v1 to the public.",
+        "isFinished": true
+    }
+]
