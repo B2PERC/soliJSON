@@ -1,20 +1,33 @@
 [
     {
-        "id": "4",
-        "title": "Combine sentences",
-        "status": "planned",
-        "description" : "You can add a little bit of extra context here."
+        "id": "10",
+        "title": "Multiple Labels",
+        "description" : "Add the ability to add more than one label to a single practice item."
     },
     {
-        "id": "5",
-        "title": "Open with Finder support",
-        "status": "planned"
+        "id": "11",
+        "title": "Record Audio",
+        "description" : "Ability to record audio while inside a practice session"
     },
     {
-        "id": "6",
-        "title": "Initial Launch",
-        "status": "finished",
-        "description" : "Release v1 to the public.",
-        "isFinished": true
+        "id": "12",
+        "title": "Practice History",
+        "description" : "Access to your entire practice history. Grouped by day with the ability to filter by practice label"
+    },
+    {
+        "id": "13",
+        "title": "Trends",
+        "description" : "Recived more feedback on your current practice trends compared week to week, or to your average."
+    },
+    {
+        "id": "14",
+        "title": "Sharing a Session/Streak/Daily Progress",
+        "description" : "Ability to send practice sessions, current streak, or daily reports to a friend. Simliar to sharing your Apple Workout activity."
+    },
+    {
+        "id": "15",
+        "title": "iPad App",
+        "status": "IN PROGRESS",
+        "description" : "A native iPad app with shared data between iPhone and iPad versions. "
     }
 ]
